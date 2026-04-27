@@ -1,0 +1,13 @@
+# Large data files
+data/raw/
+data/processed/
+
+# Database files
+*.db
+
+# Jupyter cache
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
