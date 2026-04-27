@@ -130,3 +130,22 @@ financial-fraud-detection-system/
 ├── README.md
 ├── requirements.txt
 └── LICENSE
+
+## 📥 Dataset Note
+
+Due to GitHub file size limitations, the raw dataset and processed files are not included in this repository.
+
+The following files are excluded:
+
+- `data/raw/creditcard.csv`
+- `data/processed/creditcard_cleaned.csv`
+- `data/processed/fraud_detection.db`
+
+### How to Run This Project
+
+### Step 1 — Download Dataset
+
+Download the Credit Card Fraud Detection Dataset manually and place it inside:
+
+```text
+data/raw/
